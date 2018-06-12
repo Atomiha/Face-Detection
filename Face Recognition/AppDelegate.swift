@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Face Recognition
 //
-//  Created by Михаил Атоян on 22.05.2018.
+//  Created by Михаил Атоян on 12.05.2018.
 //  Copyright © 2018 Михаил Атоян. All rights reserved.
 //
 

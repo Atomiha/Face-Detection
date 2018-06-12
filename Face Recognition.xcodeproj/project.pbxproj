@@ -12,6 +12,7 @@
 		2504FF1A20B4B5AF00601DDB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2504FF1820B4B5AF00601DDB /* Main.storyboard */; };
 		2504FF1C20B4B5B000601DDB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2504FF1B20B4B5B000601DDB /* Assets.xcassets */; };
 		2504FF1F20B4B5B000601DDB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2504FF1D20B4B5B000601DDB /* LaunchScreen.storyboard */; };
+		25DC836320CB785C009636EC /* img1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 25DC836220CB785B009636EC /* img1.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		2504FF1B20B4B5B000601DDB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2504FF1E20B4B5B000601DDB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2504FF2020B4B5B000601DDB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		25DC836220CB785B009636EC /* img1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = img1.jpg; path = "../../Face-Detection-CNN/images/img1.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				2504FF1B20B4B5B000601DDB /* Assets.xcassets */,
 				2504FF1D20B4B5B000601DDB /* LaunchScreen.storyboard */,
 				2504FF2020B4B5B000601DDB /* Info.plist */,
+				25DC836220CB785B009636EC /* img1.jpg */,
 			);
 			path = "Face Recognition";
 			sourceTree = "<group>";
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2504FF1F20B4B5B000601DDB /* LaunchScreen.storyboard in Resources */,
+				25DC836320CB785C009636EC /* img1.jpg in Resources */,
 				2504FF1C20B4B5B000601DDB /* Assets.xcassets in Resources */,
 				2504FF1A20B4B5AF00601DDB /* Main.storyboard in Resources */,
 			);
@@ -281,6 +285,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = K5RXKVR6TR;
 				INFOPLIST_FILE = "Face Recognition/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -298,6 +303,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = K5RXKVR6TR;
 				INFOPLIST_FILE = "Face Recognition/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
